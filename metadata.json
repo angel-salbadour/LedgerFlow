@@ -1,0 +1,6 @@
+{
+  "name": "LedgerFlow — Personal Expense Tracker",
+  "description": "A modern, responsive personal expense tracker with authentication, analytics, full transaction CRUD, search and filtering, and Firebase/LocalStorage persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
